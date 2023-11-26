@@ -1,0 +1,28 @@
+.homeIcon {
+    width: 25%;
+    margin: 10px;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 1px 5px 5px gray;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    padding: 1px 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}

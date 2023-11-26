@@ -1,0 +1,53 @@
+.signUp {
+    background-color: aquamarine;
+    background-size: cover;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    background-color: orchid;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+
+.signUpLogo {
+    width:50px;
+    object-fit: contain;
+    padding: 10px;
+}
+
+.loginPara {
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0px 40px 20px 40px;
+}
+
+input {
+    width: 80%;
+    padding: 5px;
+    margin: 3px 0px;
+    box-sizing: border-box;
+}
+
+.form > div {
+    margin: auto;
+}
+
+#submit-btn {
+    background-color: skyblue;
+    border: none;
+    border-radius: 10px;
+}
+
+.formBottom {
+    background-color: orchid;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
